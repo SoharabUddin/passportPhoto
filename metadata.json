@@ -1,0 +1,7 @@
+{
+  "name": "Passport Photo Pro",
+  "description": "Passport Photo Pro is a smart web app created by Soharab Uddin Mondal. It lets users capture or upload a photo, clean up the background, and crop it precisely for Indian passport or other ID sizes. The app includes easy size adjustment in centimeters, preset crop options, and an automatic layout that arranges multiple copies on an A4 page. Users can download the final photos in PDF, PNG, or JPEG formats — ready for printing or digital submission.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
